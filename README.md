@@ -93,7 +93,7 @@ Las características que tienen mayor impacto en el precio son:
 
 ## 🧑‍💻 Autor
 
-_(Tu Nombre o Nickname)_
+_(Sergio Martinez Rico)_
 
 - [GitHub](https://github.com/SergioMartinezRico)
 - [Contacto](https://www.linkedin.com/in/sergio-martinez-rico-)
